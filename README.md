@@ -3,7 +3,7 @@
 
 - 💻 I am currently in the third year of my Bachelor of Systems Engineering degree
 
-- 👨‍💻 All of my projects are available at [https://github.com/Joaquin1128?tab=projects](https://github.com/Joaquin1128?tab=projects)
+- 👨‍💻 All of my projects are available at [https://github.com/Joaquin1128?tab=repositories](https://github.com/Joaquin1128?tab=repositories)
 
 - 📫 How to reach me **Joaquin.augusto@hotmail.com**
 
