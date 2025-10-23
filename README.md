@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Joaquin</h1>
 <h3 align="center">Backend Developer from Argentina</h3>
 
-- 💻 I am currently in my third year of a Bachelor's degree in Systems Engineering
+- 💻 I am currently in my fourth year of a Bachelor's degree in Systems Engineering
 
 - 👨‍💻 All of my projects are available at [https://github.com/Joaquin1128?tab=repositories](https://github.com/Joaquin1128?tab=repositories)
 
