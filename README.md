@@ -26,7 +26,7 @@
 
 ## About
 
-Software developer at **Axoft (Tango Software)**, working across the full stack on enterprise systems built with **.NET / C#**. Concurrently pursuing a degree in Information Systems Engineering.
+Software developer at **Axoft (Tango Software)**, working across the full stack on enterprise systems built with **.NET / C#**. Concurrently pursuing a Bachelor's degree in Systems.
 
 I work across the entire development lifecycle — from data modeling and API design to frontend integration, system architecture, and deployment. I also explore AI-driven features and how LLMs can be integrated into production systems in practical, reliable ways.
 
